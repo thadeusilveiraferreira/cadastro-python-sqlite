@@ -7,8 +7,9 @@ utilizando banco de dados SQLite.
 
 ## Funcionalidades
 - Cadastro de clientes
-- Listagem de clientes
-- Armazenamento em banco de dados local
+- Listagem formatada (ID, Nome, Email)
+- Persistência de dados com SQLite
+
 
 ## Tecnologias
 - Python
@@ -22,4 +23,5 @@ utilizando banco de dados SQLite.
 3. Utilize o menu no terminal
 
 ## Status
-✅ Funcional
+Funcional – versão inicial
+
