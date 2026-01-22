@@ -24,7 +24,7 @@ def listar_clientes():
     cursor.execute("SELECT * FROM clientes")
     clientes = cursor.fetchall()
     for cliente in clientes:
-        print(cliente)
+        print(f"ID: {cliente[0]} | Nome: {cliente[1]} | Email: {cliente[2]}")
 
 # Execução principal
 while True:
