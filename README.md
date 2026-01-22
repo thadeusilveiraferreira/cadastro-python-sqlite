@@ -5,11 +5,12 @@ Sistema simples de cadastro usando Python e banco de dados SQLite
 Projeto prático desenvolvido para consolidar conhecimentos em Python e SQL,
 utilizando banco de dados SQLite.
 
-## Funcionalidades
-- Cadastro de clientes
-- Listagem formatada (ID, Nome, Email)
-- Persistência de dados com SQLite
-
+## Funcionalidades implementadas
+- Cadastro (CREATE)
+- Listagem (READ)
+- Atualização (UPDATE)
+- Exclusão (DELETE)
+- Validação básica de e-mail
 
 ## Tecnologias
 - Python
@@ -23,5 +24,6 @@ utilizando banco de dados SQLite.
 3. Utilize o menu no terminal
 
 ## Status
-Funcional – versão inicial
+CRUD completo – versão funcional
+
 
