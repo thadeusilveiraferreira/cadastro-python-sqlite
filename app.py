@@ -86,4 +86,5 @@ while True:
         print("Opção inválida!")
 
 conn.close()
+# CRUD completo implementado
 
